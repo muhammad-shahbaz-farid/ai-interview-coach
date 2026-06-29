@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Coach",
+  "description": "An intelligent AI Interview Coach powered by Gemini for job seekers and fresh graduates to practice mock interviews with real-time feedback, analyze CVs, and track performance scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
